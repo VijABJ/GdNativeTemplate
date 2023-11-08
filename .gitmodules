@@ -1,6 +1,9 @@
 [submodule "main_application/extensions/SrgGdHelpers"]
 	path = main_application/extensions/SrgGdHelpers
-	url = git@github.com:VijABJ/SrgGdHelpers.git
+	url = https://github.com/VijABJ/SrgGdHelpers.git
 [submodule "main_application/extensions/SrgGdUtilities"]
 	path = main_application/extensions/SrgGdUtilities
-	url = git@github.com:VijABJ/SrgGdUtilities.git
+	url = https://github.com/VijABJ/SrgGdUtilities.git
+[submodule "main_application/extensions/godot-cpp"]
+	path = main_application/extensions/godot-cpp
+	url = https://github.com/godotengine/godot-cpp.git
