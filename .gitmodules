@@ -4,3 +4,6 @@
 [submodule "main_application/extensions/SrgGdHelpers"]
 	path = main_application/extensions/SrgGdHelpers
 	url = git@github.com:VijABJ/SrgGdHelpers.git
+[submodule "main_application/extensions/SrgGdUtilities"]
+	path = main_application/extensions/SrgGdUtilities
+	url = git@github.com:VijABJ/SrgGdUtilities.git
