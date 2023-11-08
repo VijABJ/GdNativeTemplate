@@ -1,0 +1,13 @@
+[gd_resource type="RuntimeEnvironment" load_steps=4 format=3 uid="uid://7s7cqdbhbpra"]
+
+[sub_resource type="ConfigStore" id="ConfigStore_n664c"]
+AutoSave = true
+
+[sub_resource type="FileList" id="FileList_ve2qj"]
+
+[sub_resource type="ProfileManager" id="ProfileManager_fxp67"]
+ProfileSource = SubResource("FileList_ve2qj")
+
+[resource]
+Configuration = SubResource("ConfigStore_n664c")
+Profiles = SubResource("ProfileManager_fxp67")
